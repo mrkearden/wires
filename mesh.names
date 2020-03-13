@@ -1,0 +1,18 @@
+! ----- names for bodies -----
+$ Group_32 = 1
+$ Group_33 = 2
+$ Group_34 = 3
+$ Group_35 = 4
+! ----- names for boundaries -----
+$ Group_44 = 1
+$ Group_45 = 2
+$ Group_46 = 3
+$ Group_47 = 4
+$ Group_48 = 5
+$ Group_49 = 6
+$ Group_50 = 7
+$ Group_51 = 8
+$ Cut_1 = 9
+$ Cut_2 = 10
+$ Cut_3 = 11
+$ Cut_4 = 12

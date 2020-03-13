@@ -1,0 +1,66 @@
+!------ Skeleton for body section -----
+Body 1
+  Name = Group_32
+End
+
+Body 2
+  Name = Group_33
+End
+
+Body 3
+  Name = Group_34
+End
+
+Body 4
+  Name = Group_35
+End
+
+!------ Skeleton for boundary section -----
+Boundary Condition 1
+  Name = Group_44
+End
+
+Boundary Condition 2
+  Name = Group_45
+End
+
+Boundary Condition 3
+  Name = Group_46
+End
+
+Boundary Condition 4
+  Name = Group_47
+End
+
+Boundary Condition 5
+  Name = Group_48
+End
+
+Boundary Condition 6
+  Name = Group_49
+End
+
+Boundary Condition 7
+  Name = Group_50
+End
+
+Boundary Condition 8
+  Name = Group_51
+End
+
+Boundary Condition 9
+  Name = Cut_1
+End
+
+Boundary Condition 10
+  Name = Cut_2
+End
+
+Boundary Condition 11
+  Name = Cut_3
+End
+
+Boundary Condition 12
+  Name = Cut_4
+End
+
